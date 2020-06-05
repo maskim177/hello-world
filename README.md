@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hanya repositori lain
+haisemua, selamat datang di dunia  kami
